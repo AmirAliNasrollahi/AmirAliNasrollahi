@@ -1,10 +1,11 @@
-## Hi there👋
-
+# Hiو Im AmirAli👋
+### a linux lover, who loves the free_software and free_speach.
 - 🌱 I’m currently learning **GO, Docker** and something about **BlockChain**
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about:
     - php and laravel
     - vue.js & design
+    - i know something about linux
 - 📫 How to reach me:
   - telegram : https://t.me/tarbz2
   - email    : nasrollahiamirali@gmail.com
