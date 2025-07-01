@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning **GO, Docker** and something about **BlockChain**
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about:
-    - php and laravel
-    - vue.js & design
+    - php & laravel
+    - vue.js & web design
     - i know something about linux
 - 📫 How to reach me:
   - telegram : https://t.me/tarbz2
