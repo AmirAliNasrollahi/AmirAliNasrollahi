@@ -1,4 +1,4 @@
-# H, Im AmirAli👋
+# Hi, Im AmirAli👋
 ### a linux lover, who loves the free_software and free_speach.
 - 🌱 I’m currently learning **GO, Docker** and something about **BlockChain**
 - 🤔 I’m looking for help with ...
